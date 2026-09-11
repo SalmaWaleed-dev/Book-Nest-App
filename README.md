@@ -653,38 +653,6 @@ This allows publicly accessible uploaded book covers and other required assets t
 
 ---
 
-# 🤖 AI Configuration
-
-AI credentials must never be hardcoded.
-
-Add the following variables to `.env`:
-
-```env
-AI_API_KEY=
-AI_MODEL=
-AI_BASE_URL=
-```
-
-Example:
-
-```env
-AI_API_KEY=your_api_key_here
-AI_MODEL=your_model_name
-AI_BASE_URL=your_provider_endpoint
-```
-
-Never commit the real `.env` file.
-
-The repository should contain:
-
-```text
-.env.example
-```
-
-instead of real secrets.
-
----
-
 # ▶️ Running the Application
 
 Start the Laravel development server:
