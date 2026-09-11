@@ -1,0 +1,1304 @@
+[
+  {
+    "title": "Apis",
+    "author": "Unknown",
+    "category": "Web Development",
+    "cover": "covers/programming/programming-001.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Beginning Git and Github",
+    "author": "Unknown",
+    "category": "Programming",
+    "cover": "covers/programming/programming-002.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Computer Networks",
+    "author": "Andrew S. Tanenbaum",
+    "category": "Networking & Security",
+    "cover": "covers/programming/programming-003.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Core Java for the Impatient",
+    "author": "Cay S. Horstmann",
+    "category": "Programming",
+    "cover": "covers/programming/programming-004.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Database System Concepts",
+    "author": "Abraham Silberschatz",
+    "category": "Database",
+    "cover": "covers/programming/programming-005.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Deep Learning from Scratch",
+    "author": "Seth Weidman",
+    "category": "Artificial Intelligence",
+    "cover": "covers/programming/programming-006.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Deep learning",
+    "author": "Ian Goodfellow",
+    "category": "Artificial Intelligence",
+    "cover": "covers/programming/programming-007.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Designing Autonomous AI",
+    "author": "Unknown",
+    "category": "Artificial Intelligence",
+    "cover": "covers/programming/programming-008.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "category": "Programming",
+    "cover": "covers/programming/programming-009.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "category": "Web Development",
+    "cover": "covers/programming/programming-010.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Git",
+    "author": "Unknown",
+    "category": "Programming",
+    "cover": "covers/programming/programming-011.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Introducing Python",
+    "author": "Bill Lubanovic",
+    "category": "Programming",
+    "cover": "covers/programming/programming-012.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Jump Start Sass",
+    "author": "Miriam Suzanne",
+    "category": "Web Development",
+    "cover": "covers/programming/programming-013.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Kali linux unleashed",
+    "author": "Unknown",
+    "category": "Networking & Security",
+    "cover": "covers/programming/programming-014.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Learning Functional Programming",
+    "author": "Jack Widman",
+    "category": "Programming",
+    "cover": "covers/programming/programming-015.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Learning JavaScript Design Patterns",
+    "author": "Addy Osmani",
+    "category": "Web Development",
+    "cover": "covers/programming/programming-016.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Learning React",
+    "author": "Alex Banks",
+    "category": "Web Development",
+    "cover": "covers/programming/programming-017.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Learning SQL",
+    "author": "Alan Beaulieu",
+    "category": "Database",
+    "cover": "covers/programming/programming-018.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Linux basic for hackers",
+    "author": "OccupyTheWeb",
+    "category": "Networking & Security",
+    "cover": "covers/programming/programming-019.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Machine Learning",
+    "author": "Tom M. Mitchell",
+    "category": "Artificial Intelligence",
+    "cover": "covers/programming/programming-020.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Mastering Algorithms with C",
+    "author": "Kyle Loudon",
+    "category": "Programming",
+    "cover": "covers/programming/programming-021.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Operating System Concepts",
+    "author": "Abraham Silberschatz",
+    "category": "Programming",
+    "cover": "covers/programming/programming-022.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Practical Deep Learning",
+    "author": "Ronald T. Kneusel",
+    "category": "Artificial Intelligence",
+    "cover": "covers/programming/programming-023.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "category": "Programming",
+    "cover": "covers/programming/programming-024.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Responsive Web Design with HTML5 and CSS_ Build future-proof responsive websites using HTML5 & CSS",
+    "author": "Unknown",
+    "category": "Programming",
+    "cover": "covers/programming/programming-025.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Linux Command Line",
+    "author": "William Shotts",
+    "category": "Networking & Security",
+    "cover": "covers/programming/programming-026.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Think Java",
+    "author": "Allen B. Downey",
+    "category": "Programming",
+    "cover": "covers/programming/programming-027.jpg",
+    "language": "en"
+  },
+  {
+    "title": "artificial intelligence and brain research",
+    "author": "Unknown",
+    "category": "Artificial Intelligence",
+    "cover": "covers/programming/programming-028.jpg",
+    "language": "en"
+  },
+  {
+    "title": "c++ prime",
+    "author": "Unknown",
+    "category": "Programming",
+    "cover": "covers/programming/programming-029.jpg",
+    "language": "en"
+  },
+  {
+    "title": "clean code",
+    "author": "Robert C. Martin",
+    "category": "Programming",
+    "cover": "covers/programming/programming-030.jpg",
+    "language": "en"
+  },
+  {
+    "title": "essential maths for AI",
+    "author": "Hala Nelson",
+    "category": "Artificial Intelligence",
+    "cover": "covers/programming/programming-031.jpg",
+    "language": "en"
+  },
+  {
+    "title": "head first java",
+    "author": "Kathy Sierra",
+    "category": "Programming",
+    "cover": "covers/programming/programming-032.jpg",
+    "language": "en"
+  },
+  {
+    "title": "A Court of Frost and starlight",
+    "author": "Sarah J. Maas",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-001.jpg",
+    "language": "en"
+  },
+  {
+    "title": "A Court of Mist and fury",
+    "author": "Sarah J. Maas",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-002.jpg",
+    "language": "en"
+  },
+  {
+    "title": "A Court of Silver Flame",
+    "author": "Sarah J. Maas",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-003.jpg",
+    "language": "en"
+  },
+  {
+    "title": "A Court of Thorns and Roses",
+    "author": "Sarah J. Maas",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-004.jpg",
+    "language": "en"
+  },
+  {
+    "title": "A Court of Wings and ruin",
+    "author": "Sarah J. Maas",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-005.jpg",
+    "language": "en"
+  },
+  {
+    "title": "A Curse For True Love",
+    "author": "Stephanie Garber",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-006.jpg",
+    "language": "en"
+  },
+  {
+    "title": "A good girl's guide to murder",
+    "author": "Unknown",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-007.jpg",
+    "language": "en"
+  },
+  {
+    "title": "All Your Perfects",
+    "author": "Colleen Hoover",
+    "category": "Romance",
+    "cover": "covers/english/english-008.jpg",
+    "language": "en"
+  },
+  {
+    "title": "All this twisted glory",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-009.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Always isn't forever",
+    "author": "Unknown",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-010.jpg",
+    "language": "en"
+  },
+  {
+    "title": "And the mountains echoed",
+    "author": "Khaled Hosseini",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-011.jpg",
+    "language": "en"
+  },
+  {
+    "title": "As Good As Dead",
+    "author": "Holly Jackson",
+    "category": "Young Adult",
+    "cover": "covers/english/english-012.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Babel",
+    "author": "R.F. Kuang",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-013.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Before We Forget Kindness",
+    "author": "Toshikazu Kawaguchi",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-014.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Before We Say Goodbye",
+    "author": "Toshikazu Kawaguchi",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-015.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Before the Coffee gets cold",
+    "author": "Toshikazu Kawaguchi",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-016.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Believe Me",
+    "author": "Colleen Hoover",
+    "category": "Romance",
+    "cover": "covers/english/english-017.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Better Than Before",
+    "author": "Unknown",
+    "category": "Romance",
+    "cover": "covers/english/english-018.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Betting on You",
+    "author": "Lynn Painter",
+    "category": "Romance",
+    "cover": "covers/english/english-019.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Defy me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-020.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Destroy Me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-021.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Fearless",
+    "author": "Lauren Roberts",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-022.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Find me",
+    "author": "Unknown",
+    "category": "Romance",
+    "cover": "covers/english/english-023.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Fracture Me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-024.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Funny Story",
+    "author": "Emily Henry",
+    "category": "Romance",
+    "cover": "covers/english/english-025.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Good Girl bad blood",
+    "author": "Holly Jackson",
+    "category": "Young Adult",
+    "cover": "covers/english/english-026.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Haunting Adeline",
+    "author": "H.D. Carlton",
+    "category": "Romance",
+    "cover": "covers/english/english-027.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Heart Bones",
+    "author": "Colleen Hoover",
+    "category": "Romance",
+    "cover": "covers/english/english-028.jpg",
+    "language": "en"
+  },
+  {
+    "title": "House of Earth and Blood",
+    "author": "Sarah J. Maas",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-029.jpg",
+    "language": "en"
+  },
+  {
+    "title": "House of the sky and breath",
+    "author": "Sarah J. Maas",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-030.jpg",
+    "language": "en"
+  },
+  {
+    "title": "I could Give You The Moon",
+    "author": "Trisha Das",
+    "category": "Romance",
+    "cover": "covers/english/english-031.jpg",
+    "language": "en"
+  },
+  {
+    "title": "IT ENDS WITH US",
+    "author": "Colleen Hoover",
+    "category": "Romance",
+    "cover": "covers/english/english-032.jpg",
+    "language": "en"
+  },
+  {
+    "title": "If You Could See The Sun",
+    "author": "Ann Liang",
+    "category": "Young Adult",
+    "cover": "covers/english/english-033.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Ignite Me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-034.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Imagine Me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-035.jpg",
+    "language": "en"
+  },
+  {
+    "title": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "category": "Romance",
+    "cover": "covers/english/english-036.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Once Upon a Broken Heart",
+    "author": "Stephanie Garber",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-037.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Powerless",
+    "author": "Lauren Roberts",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-038.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Reckless",
+    "author": "Lauren Roberts",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-039.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Reveal Me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-040.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Shadow me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-041.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Shatter me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-042.jpg",
+    "language": "en"
+  },
+  {
+    "title": "TWISTED HATE",
+    "author": "Ana Huang",
+    "category": "Romance",
+    "cover": "covers/english/english-043.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Tales from the Cafe",
+    "author": "Toshikazu Kawaguchi",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-044.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Ballad of Never After",
+    "author": "Stephanie Garber",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-045.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Housemaid is Watching",
+    "author": "Freida McFadden",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-046.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Housemaid's Secret",
+    "author": "Unknown",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-047.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Housemaid's Wedding",
+    "author": "Unknown",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-048.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Housemaid",
+    "author": "Freida McFadden",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-049.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Love Hypothesis",
+    "author": "Ali Hazelwood",
+    "category": "Romance",
+    "cover": "covers/english/english-050.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Priory of the Orange Tree",
+    "author": "Samantha Shannon",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-051.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Seven Year Slip",
+    "author": "Ashley Poston",
+    "category": "Romance",
+    "cover": "covers/english/english-052.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The Way I Am Now",
+    "author": "Lauren Roberts",
+    "category": "Romance",
+    "cover": "covers/english/english-053.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The kite runner",
+    "author": "Khaled Hosseini",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-054.jpg",
+    "language": "en"
+  },
+  {
+    "title": "The way I used to be",
+    "author": "Amber Smith",
+    "category": "Young Adult",
+    "cover": "covers/english/english-055.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Things We Hide From The Light",
+    "author": "Lucy Score",
+    "category": "Romance",
+    "cover": "covers/english/english-056.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Things We Left Behind",
+    "author": "Lucy Score",
+    "category": "Romance",
+    "cover": "covers/english/english-057.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Tress of the emerald sea",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-058.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Twisted Games",
+    "author": "Ana Huang",
+    "category": "Romance",
+    "cover": "covers/english/english-059.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Twisted Lies",
+    "author": "Ana Huang",
+    "category": "Romance",
+    "cover": "covers/english/english-060.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Ugly Love",
+    "author": "Colleen Hoover",
+    "category": "Romance",
+    "cover": "covers/english/english-061.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Unravel me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-062.jpg",
+    "language": "en"
+  },
+  {
+    "title": "Yumi and the Nightmare Painter",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-063.jpg",
+    "language": "en"
+  },
+  {
+    "title": "a thousand splendid suns",
+    "author": "Khaled Hosseini",
+    "category": "Literary Fiction",
+    "cover": "covers/english/english-064.jpg",
+    "language": "en"
+  },
+  {
+    "title": "better than the movies",
+    "author": "Lynn Painter",
+    "category": "Young Adult",
+    "cover": "covers/english/english-065.jpg",
+    "language": "en"
+  },
+  {
+    "title": "better then the party",
+    "author": "Unknown",
+    "category": "Young Adult",
+    "cover": "covers/english/english-066.jpg",
+    "language": "en"
+  },
+  {
+    "title": "close to you",
+    "author": "Unknown",
+    "category": "Romance",
+    "cover": "covers/english/english-067.jpg",
+    "language": "en"
+  },
+  {
+    "title": "restore me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-068.jpg",
+    "language": "en"
+  },
+  {
+    "title": "the poppy war",
+    "author": "R.F. Kuang",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-069.jpg",
+    "language": "en"
+  },
+  {
+    "title": "the sunlit man",
+    "author": "Brandon Sanderson",
+    "category": "Fantasy Fiction",
+    "cover": "covers/english/english-070.jpg",
+    "language": "en"
+  },
+  {
+    "title": "twisted love",
+    "author": "Ana Huang",
+    "category": "Romance",
+    "cover": "covers/english/english-071.jpg",
+    "language": "en"
+  },
+  {
+    "title": "unite me",
+    "author": "Tahereh Mafi",
+    "category": "Young Adult",
+    "cover": "covers/english/english-072.jpg",
+    "language": "en"
+  },
+  {
+    "title": "آرسس1",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-001.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "آرسس2",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-002.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "آزر",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-003.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "أماريتا",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-004.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "أوبال",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-005.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "أولالد حارتنا",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-006.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "ارض زيكولا",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-007.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "اكتب حتي لا اصاب بالجنون",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-008.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "الأخوة كارامازوف",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-009.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "الأسود يليق بك",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-010.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "الأيام",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-011.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "الجريمة والعقاب",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-012.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "الحرافيش",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-013.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "الدخيل",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-014.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "الساحرة الهجينة",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-015.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "السكرية",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-016.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "السلام عليك يا صاحبي",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-017.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "الشيطان يحكي",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-018.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "العبرات",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-019.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "العرجاء",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-020.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "العوسج",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-021.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "الغيهب",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-022.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "القربان",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-023.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "النداء",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-024.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "الوحش الذي يسكنك يمكن أن يكون لطيفا",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-025.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "الياقوت",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-026.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "انني اتعفن رعبا",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-027.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "ايكادولي",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-028.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "بحيرة العشق",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-029.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "بصيرا",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-030.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "بين القصرين",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-031.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "ثورة الحور",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-032.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "جاز وروك",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-033.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "جثتان والثالتة عند قدمي",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-034.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "جحيم العابرين",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-035.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "جرائم الغراب السبع",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-036.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "جريمة العقار 47",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-037.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "جمرة",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-038.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "حقل التفاح",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-039.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "رسائل من التابعين",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-040.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "رسائل من الصحابة",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-041.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "رسائل من القران",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-042.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "رسائل من النبي",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-043.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "رسائل من علي بن ابي طالب",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-044.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "رواية بيتشيني",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-045.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "زبابة زرقاء",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-046.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "ستوكهولم",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-047.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "سجناء ال 1500  عام",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-048.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "شمس منتصف الليل",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-049.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "صاحب الظل الطويل",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-050.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "صدى النسيان",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-051.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "صديقي السيكوباتي",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-052.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "صراع الملكات لج 4",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-053.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "طائفة الشعيبة",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-054.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "علمتني آية",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-055.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "علي خطي الرسول",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-056.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "فاتتني صلاة",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-057.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "في ممر الفئران",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-058.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "قصر الشوق",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-059.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "قضية ذيل القط",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-060.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "قضية ست الحسن",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-061.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "قضية عنب الثعلب",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-062.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "قنبلة لأستخدام الشخصي",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-063.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "كوني صحابية",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-064.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "كويكول",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-065.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "لانك الله",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-066.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "لانها كيارا",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-067.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "لج (ملحمة البحور السبعة)",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-068.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "لج 5 ملحمة البحور السبعة فجر السايرينات",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-069.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "ليطمئن قلبي",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-070.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "ما لا نبوح به",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-071.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "ما لا يسع المسلم جهله",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-072.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "ماجدولين",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-073.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "متجر دالوجوت للأحلام",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-074.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "مخالب القط",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-075.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "هذا ما حدث معها",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-076.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "هذا ما حدث معي",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-077.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "وادي الذئاب المنسية",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-078.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "وبالحق أنزلناه",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-079.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "ولنا في الحلال لقاء",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-080.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "يحدث ليلا في العرفة المغلقة",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-081.jpg",
+    "language": "ar"
+  },
+  {
+    "title": "005",
+    "author": "Unknown",
+    "category": "Arabic Literature",
+    "cover": "covers/arabic/arabic-082.jpg",
+    "language": "ar"
+  }
+]
