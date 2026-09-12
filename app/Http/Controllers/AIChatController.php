@@ -3,12 +3,12 @@
 namespace App\Http\Controllers;
 
 use App\Models\Book;
-use App\Services\AIService;
+use App\Services\LlmAIService;
 use Illuminate\Http\Request;
 
 class AIChatController extends Controller
 {
-    public function chat(Request $request, AIService $assistant)
+    public function chat(Request $request, LlmAIService $assistant)
     {
         $data = $request->validate([
             'message' => ['required', 'string', 'max:500'],
@@ -21,8 +21,8 @@ class AIChatController extends Controller
             return response()->json(['reply' => 'Please log in to use the Library Assistant.'], 401);
         }
 
-        return response()->json([
-            'reply' => $assistant->respond($user, $data['message'], $data['book_id'] ?? null, $data['book_id_b'] ?? null),
+            return response()->json([
+            'reply' => $assistant->respond($user, $data['message'], $data['book_id'] ?? null),
         ]);
     }
 }
